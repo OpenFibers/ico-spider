@@ -4,6 +4,6 @@ download ICO source code  from [etherscan](https://etherscan.io/)
 
 ## how to run 
 
-`pip install -r  requirements.txt`
+`sudo pip install -r  requirements.txt`
 
 `scrapy crawl tokens -o tokens.json`
